@@ -1,0 +1,17 @@
+
+ Data do Diagnóstico: 17/11/2022 
+			
+ Nome: andresa alves 
+ Idade: 28 anos 
+ Telefone: +55 19996585234 
+ Email: andresa@email.com 
+ CPF: 42135698521 
+ 
+ Endereço: rua x
+ Número: 12 Complemento: 0
+ Bairro: centro
+ Cidade: cosmopolis
+ Estado: sp
+ País: brasil
+ CEP: 13150132
+ Comorbidades: diabetes
